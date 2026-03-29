@@ -1,0 +1,5 @@
+{
+  "name": "Dr. Medix",
+  "description": "Plataforma educativa para visitadores médicos con mentoría de IA.",
+  "requestFramePermissions": ["microphone"]
+}
